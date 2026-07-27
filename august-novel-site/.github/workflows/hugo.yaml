@@ -3,7 +3,7 @@ name: Build and Deploy
 on:
   push:
     branches:
-      - main  # Change to 'master' if your default branch is master
+      - master  # Change to 'master' if your default branch is master
   workflow_dispatch:
 
 permissions:

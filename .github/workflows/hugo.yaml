@@ -29,11 +29,11 @@ jobs:
           hugo-version: 'latest'
           extended: true
       - name: Build
-        run: hugo --source ./august-novel-site --minify
+        run: hugo --minify
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./august-novel-site/public
+          path: ./public
 
   deploy:
     environment:

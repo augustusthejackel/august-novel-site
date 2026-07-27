@@ -29,8 +29,7 @@ jobs:
           hugo-version: 'latest'
           extended: true
       - name: Build
-        run: hugo --minify
-        working-directory: ./august-novel-site
+        run: hugo --source ./august-novel-site --minify
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

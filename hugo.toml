@@ -1,5 +1,5 @@
 baseURL = 'https://augustusthejackel.github.io/august-novel-site/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = '一千零一页'
 theme = 'hugo-book'
 languageCode = "zh-CN"

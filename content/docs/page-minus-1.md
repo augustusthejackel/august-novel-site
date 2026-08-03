@@ -1,6 +1,7 @@
 ---
-title: "Chapter -1: The Beginning"
-weight: 1
+title: "Page -1: 残余频率"
+weight: 2
 ---
 
-Your chapter text starts here...
+#Page -1: 残余频率
+写这些，纯粹是因为现在的安静有些吵得过头了。

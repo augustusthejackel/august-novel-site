@@ -1,6 +1,6 @@
 ---
-title: "Chapter 0: ?"
-weight: 2
+title: "Page 0: 同步震颤"
+weight: 3
 ---
-
-Your chapter text starts here...
+#Page 0: 同步震颤
+$$时间线：0年 - 数据初始化$$
